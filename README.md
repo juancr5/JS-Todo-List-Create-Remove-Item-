@@ -1,7 +1,7 @@
 # JS-Todo-List-Create-Remove-Item-
 Crear un item en una lista de tareas y eliminarla usando Javascript basico en el HTML
 
-Execute: ## index.html
+## Execute: index.html
 
 ### `Image 1`
 
