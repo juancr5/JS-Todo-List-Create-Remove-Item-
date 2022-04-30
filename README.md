@@ -5,3 +5,5 @@ Exucute index.html
 
 
 Image 1
+
+![alt text](https://github.com/juancr5/JS-Todo-List-Create-Remove-Item-/blob/main/images/index%2001.jpg)
